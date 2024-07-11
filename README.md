@@ -74,3 +74,6 @@ hobbies: ["Fencing", "Volleyball", "Travelling", "Trekking"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tejasvjadhav2004&theme=dark&background=000000)](https://git.io/streak-stats)
